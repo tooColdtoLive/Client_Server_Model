@@ -1,5 +1,4 @@
-# IERG4180_Project3
-# 1155110041 Li Kam Tong
+# Tony Li Kam Tong
 
 # About demo videos
 "netprobecli" and "netprobesrv" are executables on Linux.\
