@@ -1,6 +1,6 @@
 # Tony Li Kam Tong
 
-# About demo videos
+# About executables
 "netprobecli" and "netprobesrv" are executables on Linux.\
 "netprobecli.exe" are executables on Windows.
 
