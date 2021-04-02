@@ -241,7 +241,7 @@ void *threadpool_enlarge(void *threadpool)
       // empty
     }
 
-    if (pool->started >= pool->thread_count && pool->thread_count < 512 && pool->thread_count > 0)
+    if (pool->started >= pool->thread_count && pool->thread_count < 256 && pool->thread_count > 0)
     {
       int i = 0;
       while (pool->thread_count < cur_thread_count * 2)
