@@ -30,7 +30,7 @@ The client can run on both windows and linux. It is designed to have three modes
   <-pktrate txrate>   [send|recv] mode: data rate of txrate bytes per second (bps, Default 1000bps), [response] mode: request rate (per second, Default 10/s), 0 means as fast as possible. (Default 1000 bytes/second).\
   <-pktnum num>       send or receive a total of num messages. (Default = infinite).\
   <-sbufsize bsize>   set the outgoing socket buffer size to bsize bytes.\
-  <-rbufsize bsize>   set the incoming socket buffer size to bsize bytes.\
+  <-rbufsize bsize>   set the incoming socket buffer size to bsize bytes.
 
 # About executables
 "netprobecli" and "netprobesrv" are executables on Linux.\
