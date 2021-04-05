@@ -28,7 +28,7 @@ The client can run on both windows and linux. It is designed to have three modes
   <-proto [tcp|udp]>          send data using TCP or UDP. (Default UDP).\
   <-pktsize bsize>    send message of bsize bytes. (Default 1000 bytes).\
   <-pktrate txrate>   [send|recv] mode: data rate of txrate bytes per second (bps, Default 1000bps),\
-                      [response] mode: request rate (per second, Default 10/s),\
+                      &nasp;[response] mode: request rate (per second, Default 10/s),\
                       0 means as fast as possible. (Default 1000 bytes/second).\
   <-pktnum num>       send or receive a total of num messages. (Default = infinite).\
   <-sbufsize bsize>   set the outgoing socket buffer size to bsize bytes.\
