@@ -14,7 +14,7 @@ The client can run on both windows and linux. It is designed to have three modes
   <-lhost hostname>                   hostname to bind to. (Default late binding)\
   <-lport portnum>                    port number to bind to. (Default '4180')\
   <-servermodel [select|threadpool]   set the concurrent server model to either select()-based or thread pool\
-  <-poolsize psize                    set the initial thread pool size (default 8 threads), valid for thread pool server model only\
+  <-poolsize psize                    set the initial thread pool size (default 8 threads), valid for thread pool server model only
   
   Netprobecli\
   [mode], see below:\
