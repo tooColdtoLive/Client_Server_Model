@@ -1,5 +1,3 @@
-# Tony Li Kam Tong
-
 # About project
 
 # About executables
